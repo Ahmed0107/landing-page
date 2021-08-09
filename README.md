@@ -8,8 +8,8 @@
 
 * Project structure
 
-    This Project have a three structure files 
-    
+    This Project have three structure files 
+
     1. "index.html" file ====> containes the page structure or building blocks
     2. "style.css" file  ====> containes the page styling
     3. "app.js" file  ====> containes the page logic code
