@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * Introduction
+
     This page is a multi section web page with dynamic navigation links 
 
 * project structure
